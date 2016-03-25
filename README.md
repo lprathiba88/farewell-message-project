@@ -1,4 +1,4 @@
-### farewell-message-project
+### Farewell application
 
 ### March 24, 2016
 
